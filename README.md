@@ -1,2 +1,2 @@
 # EVIL-
-E V I L
+ Welcome to Script
